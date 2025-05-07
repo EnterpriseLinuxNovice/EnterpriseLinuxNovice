@@ -2,22 +2,22 @@
 <table>
   <tr>
     <td valign="top" width="60%">
-      <h2 align="center" style="color:#39ff14;">👋 Hi, the name is Joey</h2>
+      <h2 align="center">👋 Hi, the name is Joey</h2>
 
-      <p align="center" style="color:#39ff14; font-size:18px;">
+      <p align="center">
         <strong>Linux Sysadmin</strong> by day.<br>
-        <strong>Youtuber watcher</strong> and <strong>Gym-Go'er</strong>, by night.<br><br>
+        <strong>Youtuber watcher</strong> and <strong>Gym-Go'er</strong> by night.<br><br>
         Constantly seeking growth personally and professionally.
       </p>
 
-      ---
+      <hr>
 
-      ### ⚙️ Skills & Tools
+      <h3>⚙️ Skills & Tools</h3>
 
       <ul>
-        <li><span style="color:#39ff14;">🐧 Linux administration (RHEL, CentOS, Ubuntu)</span></li>
-        <li><span style="color:#39ff14;">📜 Bash & Ansible Automation</span></li>
-        <li><span style="color:#39ff14;">🌐 On-premise & AWS virtualization</span></li>
+        <li>🐧 Linux administration (RHEL, CentOS, Ubuntu)</li>
+        <li>📜 Bash & Ansible Automation</li>
+        <li>🌐 On-premise & AWS virtualization</li>
       </ul>
     </td>
     <td valign="top" width="40%">
