@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="assets/banner.png" alt="Cyberpunk Banner" width="100%">
-</p>
-
 <!-- Intro -->
 <h2 align="center" style="color:#39ff14;">👋 Hi, the name is Joey</h2>
 
