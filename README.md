@@ -27,3 +27,10 @@
   </a>
 </p>
 
+<h3 align="center">🎨 Styling Languages</h3>
+
+<p align="center">
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" /></code>
+</p>
+
+
