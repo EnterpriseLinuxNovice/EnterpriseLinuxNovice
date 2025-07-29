@@ -14,7 +14,7 @@
 <div align="center">
   <dl>
     <dd><span style="color:#39ff14;">🐧 Linux administration (RHEL, CentOS, Ubuntu)</span></dd>
-    <dd><span style="color:#39ff14;">📜 Bash & Ansible Automation</span></dd>
+    <dd><span style="color:#39ff14;">📜 Configuration-as-Code (Bash, Ansible, & Puppet)</span></dd>
     <dd><span style="color:#39ff14;">🌐 On-premise & AWS virtualization</span></dd>
   </dl>
 </div>
