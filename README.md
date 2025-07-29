@@ -12,11 +12,11 @@
 <h3 align="center">⚙️ Skills & Tools</h3>
 
 <div align="center">
-  <ul>
-    <li><span style="color:#39ff14;">🐧 Linux administration (RHEL, CentOS, Ubuntu)</span></li>
-    <li><span style="color:#39ff14;">📜 Bash & Ansible Automation</span></li>
-    <li><span style="color:#39ff14;">🌐 On-premise & AWS virtualization</span></li>
-  </ul>
+  <dl>
+    <dd><span style="color:#39ff14;">🐧 Linux administration (RHEL, CentOS, Ubuntu)</span></dd>
+    <dd><span style="color:#39ff14;">📜 Bash & Ansible Automation</span></dd>
+    <dd><span style="color:#39ff14;">🌐 On-premise & AWS virtualization</span></dd>
+  </dl>
 </div>
 
 <!--<h3 align="center">🧠 Most Used Languages</h3>
